@@ -1,0 +1,8 @@
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.exe.config
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.exe
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.pdb
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\camelccase.csproj.AssemblyReference.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\camelccase.csproj.SuggestedBindingRedirects.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\camelccase.csproj.CoreCompileInputs.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.exe
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.pdb

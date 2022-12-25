@@ -1,0 +1,8 @@
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\bin\Debug\day1assignment2.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\bin\Debug\day1assignment2.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\bin\Debug\day1assignment2.pdb
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\obj\Debug\superreduce.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\obj\Debug\superreduce.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\obj\Debug\superreduce.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\obj\Debug\day1assignment2.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\superreduce\superreduce\obj\Debug\day1assignment2.pdb

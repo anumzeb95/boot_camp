@@ -1,0 +1,8 @@
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\bin\Debug\strongpwd.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\bin\Debug\strongpwd.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\bin\Debug\strongpwd.pdb
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\obj\Debug\strongpwd.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\obj\Debug\strongpwd.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\obj\Debug\strongpwd.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\obj\Debug\strongpwd.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 2\strongpwd\strongpwd\obj\Debug\strongpwd.pdb

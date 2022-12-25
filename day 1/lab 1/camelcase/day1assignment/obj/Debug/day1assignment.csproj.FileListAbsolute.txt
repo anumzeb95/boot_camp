@@ -1,0 +1,24 @@
+Z:\week 1\day 1\day1assignment\day1assignment\bin\Debug\day1assignment.exe.config
+Z:\week 1\day 1\day1assignment\day1assignment\bin\Debug\day1assignment.exe
+Z:\week 1\day 1\day1assignment\day1assignment\bin\Debug\day1assignment.pdb
+Z:\week 1\day 1\day1assignment\day1assignment\obj\Debug\day1assignment.csproj.AssemblyReference.cache
+Z:\week 1\day 1\day1assignment\day1assignment\obj\Debug\day1assignment.csproj.SuggestedBindingRedirects.cache
+Z:\week 1\day 1\day1assignment\day1assignment\obj\Debug\day1assignment.csproj.CoreCompileInputs.cache
+Z:\week 1\day 1\day1assignment\day1assignment\obj\Debug\day1assignment.exe
+Z:\week 1\day 1\day1assignment\day1assignment\obj\Debug\day1assignment.pdb
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.exe.config
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.exe
+Z:\week 1\day 1\camelcase\day1assignment\bin\Debug\day1assignment.pdb
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.AssemblyReference.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.SuggestedBindingRedirects.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.CoreCompileInputs.cache
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.exe
+Z:\week 1\day 1\camelcase\day1assignment\obj\Debug\day1assignment.pdb
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\bin\Debug\day1assignment.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\bin\Debug\day1assignment.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\bin\Debug\day1assignment.pdb
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\obj\Debug\day1assignment.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\obj\Debug\day1assignment.exe
+G:\Anum Zeb\bootcamp\week 1\day 1\lab 1\camelcase\day1assignment\obj\Debug\day1assignment.pdb

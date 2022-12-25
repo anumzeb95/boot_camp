@@ -1,0 +1,8 @@
+Z:\week 1\day 1\day1\day1\bin\Debug\day1.exe.config
+Z:\week 1\day 1\day1\day1\bin\Debug\day1.exe
+Z:\week 1\day 1\day1\day1\bin\Debug\day1.pdb
+Z:\week 1\day 1\day1\day1\obj\Debug\day1.csproj.AssemblyReference.cache
+Z:\week 1\day 1\day1\day1\obj\Debug\day1.csproj.SuggestedBindingRedirects.cache
+Z:\week 1\day 1\day1\day1\obj\Debug\day1.csproj.CoreCompileInputs.cache
+Z:\week 1\day 1\day1\day1\obj\Debug\day1.exe
+Z:\week 1\day 1\day1\day1\obj\Debug\day1.pdb
