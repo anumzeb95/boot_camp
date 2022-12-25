@@ -1,0 +1,8 @@
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\obj\Debug\Java abstract.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\obj\Debug\Java abstract.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\obj\Debug\Java abstract.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\bin\Debug\Java abstract.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\bin\Debug\Java abstract.exe
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\bin\Debug\Java abstract.pdb
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\obj\Debug\Java abstract.exe
+G:\Anum Zeb\bootcamp\week 1\day 3\Java abstract\Java abstract\obj\Debug\Java abstract.pdb

@@ -1,0 +1,8 @@
+Z:\inheritance2\inheritance2\bin\Debug\inheritance2.exe.config
+Z:\inheritance2\inheritance2\bin\Debug\inheritance2.exe
+Z:\inheritance2\inheritance2\bin\Debug\inheritance2.pdb
+Z:\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.AssemblyReference.cache
+Z:\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.SuggestedBindingRedirects.cache
+Z:\inheritance2\inheritance2\obj\Debug\inheritance2.csproj.CoreCompileInputs.cache
+Z:\inheritance2\inheritance2\obj\Debug\inheritance2.exe
+Z:\inheritance2\inheritance2\obj\Debug\inheritance2.pdb
