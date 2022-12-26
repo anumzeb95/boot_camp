@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\obj\Debug\Node_PrintLinkedList.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\obj\Debug\Node_PrintLinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\obj\Debug\Node_PrintLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\bin\Debug\Node_PrintLinkedList.exe.config
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\bin\Debug\Node_PrintLinkedList.exe
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\bin\Debug\Node_PrintLinkedList.pdb
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\obj\Debug\Node_PrintLinkedList.exe
+C:\Users\Anum\Desktop\Node_PrintLinkedList\Node_PrintLinkedList\obj\Debug\Node_PrintLinkedList.pdb

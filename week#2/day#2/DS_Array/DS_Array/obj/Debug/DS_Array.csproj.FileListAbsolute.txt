@@ -1,0 +1,16 @@
+C:\Users\Anum\Desktop\DS_Array\DS_Array\bin\Debug\DS_Array.exe.config
+C:\Users\Anum\Desktop\DS_Array\DS_Array\bin\Debug\DS_Array.exe
+C:\Users\Anum\Desktop\DS_Array\DS_Array\bin\Debug\DS_Array.pdb
+C:\Users\Anum\Desktop\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\DS_Array\DS_Array\obj\Debug\DS_Array.exe
+C:\Users\Anum\Desktop\DS_Array\DS_Array\obj\Debug\DS_Array.pdb
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\obj\Debug\DS_Array.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\obj\Debug\DS_Array.exe
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\obj\Debug\DS_Array.pdb
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\bin\Debug\DS_Array.exe.config
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\bin\Debug\DS_Array.exe
+G:\Anum Zeb\bootcamp\week 2\lab task\DS_Array\DS_Array\bin\Debug\DS_Array.pdb

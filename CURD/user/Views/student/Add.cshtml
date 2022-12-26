@@ -1,0 +1,47 @@
+﻿@model List<userModel>
+
+<form asp-action="Add">
+    
+    <h3>Enter your Data</h3>
+    <input name="Id" type= "number" placeholder="Id"/>
+    <br > <br />
+    <input name="Name" type="text" placeholder="Name"/>
+    <br > <br />
+     <input name="Age" type="text" placeholder="Age"/>
+     <br > <br />
+    <input type="submit"/>
+    <br > <br />
+    <hr />
+</form>
+<h3> Student List</h3>
+<style> 
+    table, th, td 
+    {
+        
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+</style>
+<table style="width: 100%" >
+    <tr>
+        <th >ID</th>
+    <th>Name</th>
+    <th >Age</th>
+    <th>Action</th>
+    </tr>
+
+
+    @foreach(userModel item in Model)
+    {
+        <tr>
+            
+            <td >@item.Id</td>
+            <td >@item.Name</td>
+            <td >@item.Age</td>
+            <td >
+                <a type="button" style="color:green" asp-controller="student" asp-action="Update" asp-route-Id="@item.Id"> Update </a>
+                <a type="button"  style="color:red" asp-controller="student" asp-action="Delete" asp-route-Id="@item.Id"> Delete</a>
+            </td>
+        </tr>
+    }
+</table>

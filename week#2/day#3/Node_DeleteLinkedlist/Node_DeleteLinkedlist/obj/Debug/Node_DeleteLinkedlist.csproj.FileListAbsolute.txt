@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\bin\Debug\Node_DeleteLinkedlist.exe.config
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\bin\Debug\Node_DeleteLinkedlist.exe
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\bin\Debug\Node_DeleteLinkedlist.pdb
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\obj\Debug\Node_DeleteLinkedlist.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\obj\Debug\Node_DeleteLinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\obj\Debug\Node_DeleteLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\obj\Debug\Node_DeleteLinkedlist.exe
+C:\Users\Anum\Desktop\Node_DeleteLinkedlist\Node_DeleteLinkedlist\obj\Debug\Node_DeleteLinkedlist.pdb

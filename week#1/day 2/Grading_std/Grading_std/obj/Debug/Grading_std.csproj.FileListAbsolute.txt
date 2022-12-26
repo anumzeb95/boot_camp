@@ -1,0 +1,16 @@
+Z:\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.exe.config
+Z:\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.exe
+Z:\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.pdb
+Z:\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.AssemblyReference.cache
+Z:\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.SuggestedBindingRedirects.cache
+Z:\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.CoreCompileInputs.cache
+Z:\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.exe
+Z:\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.pdb
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\bin\Debug\Grading_std.pdb
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\Grading_std\Grading_std\obj\Debug\Grading_std.pdb

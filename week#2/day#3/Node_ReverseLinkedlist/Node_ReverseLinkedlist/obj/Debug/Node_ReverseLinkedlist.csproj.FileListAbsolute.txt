@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\bin\Debug\Node_ReverseLinkedlist.exe.config
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\bin\Debug\Node_ReverseLinkedlist.exe
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\bin\Debug\Node_ReverseLinkedlist.pdb
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\obj\Debug\Node_ReverseLinkedlist.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\obj\Debug\Node_ReverseLinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\obj\Debug\Node_ReverseLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\obj\Debug\Node_ReverseLinkedlist.exe
+C:\Users\Anum\Desktop\Node_ReverseLinkedlist\Node_ReverseLinkedlist\obj\Debug\Node_ReverseLinkedlist.pdb

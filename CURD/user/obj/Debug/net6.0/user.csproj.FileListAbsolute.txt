@@ -1,0 +1,52 @@
+Z:\net\user\user\bin\Debug\net6.0\appsettings.Development.json
+Z:\net\user\user\bin\Debug\net6.0\appsettings.json
+Z:\net\user\user\bin\Debug\net6.0\user.staticwebassets.runtime.json
+Z:\net\user\user\bin\Debug\net6.0\user.exe
+Z:\net\user\user\bin\Debug\net6.0\user.deps.json
+Z:\net\user\user\bin\Debug\net6.0\user.runtimeconfig.json
+Z:\net\user\user\bin\Debug\net6.0\user.dll
+Z:\net\user\user\bin\Debug\net6.0\user.pdb
+Z:\net\user\user\obj\Debug\net6.0\user.csproj.AssemblyReference.cache
+Z:\net\user\user\obj\Debug\net6.0\user.GeneratedMSBuildEditorConfig.editorconfig
+Z:\net\user\user\obj\Debug\net6.0\user.AssemblyInfoInputs.cache
+Z:\net\user\user\obj\Debug\net6.0\user.AssemblyInfo.cs
+Z:\net\user\user\obj\Debug\net6.0\user.csproj.CoreCompileInputs.cache
+Z:\net\user\user\obj\Debug\net6.0\user.MvcApplicationPartsAssemblyInfo.cache
+Z:\net\user\user\obj\Debug\net6.0\user.RazorAssemblyInfo.cache
+Z:\net\user\user\obj\Debug\net6.0\user.RazorAssemblyInfo.cs
+Z:\net\user\user\obj\Debug\net6.0\staticwebassets.build.json
+Z:\net\user\user\obj\Debug\net6.0\staticwebassets.development.json
+Z:\net\user\user\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Z:\net\user\user\obj\Debug\net6.0\scopedcss\bundle\user.styles.css
+Z:\net\user\user\obj\Debug\net6.0\scopedcss\projectbundle\user.bundle.scp.css
+Z:\net\user\user\obj\Debug\net6.0\user.dll
+Z:\net\user\user\obj\Debug\net6.0\refint\user.dll
+Z:\net\user\user\obj\Debug\net6.0\user.pdb
+Z:\net\user\user\obj\Debug\net6.0\user.genruntimeconfig.cache
+Z:\net\user\user\obj\Debug\net6.0\ref\user.dll
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\appsettings.Development.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\appsettings.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.staticwebassets.runtime.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.exe
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.deps.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.runtimeconfig.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.dll
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\bin\Debug\net6.0\user.pdb
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.GeneratedMSBuildEditorConfig.editorconfig
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.AssemblyInfoInputs.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.AssemblyInfo.cs
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.MvcApplicationPartsAssemblyInfo.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.RazorAssemblyInfo.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.RazorAssemblyInfo.cs
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\staticwebassets.build.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\staticwebassets.development.json
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\scopedcss\bundle\user.styles.css
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\scopedcss\projectbundle\user.bundle.scp.css
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.dll
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\refint\user.dll
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.pdb
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\user.genruntimeconfig.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#4\user\user\obj\Debug\net6.0\ref\user.dll

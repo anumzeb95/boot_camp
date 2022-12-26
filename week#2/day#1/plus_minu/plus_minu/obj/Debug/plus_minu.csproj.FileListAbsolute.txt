@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\plus_minu\plus_minu\bin\Debug\plus_minu.exe.config
+C:\Users\Anum\Desktop\plus_minu\plus_minu\bin\Debug\plus_minu.exe
+C:\Users\Anum\Desktop\plus_minu\plus_minu\bin\Debug\plus_minu.pdb
+C:\Users\Anum\Desktop\plus_minu\plus_minu\obj\Debug\plus_minu.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\plus_minu\plus_minu\obj\Debug\plus_minu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\plus_minu\plus_minu\obj\Debug\plus_minu.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\plus_minu\plus_minu\obj\Debug\plus_minu.exe
+C:\Users\Anum\Desktop\plus_minu\plus_minu\obj\Debug\plus_minu.pdb

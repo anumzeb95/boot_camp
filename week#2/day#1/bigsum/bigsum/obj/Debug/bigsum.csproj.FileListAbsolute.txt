@@ -1,0 +1,8 @@
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\bin\Debug\bigsum.exe.config
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\bin\Debug\bigsum.exe
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\bin\Debug\bigsum.pdb
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\obj\Debug\bigsum.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\obj\Debug\bigsum.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\obj\Debug\bigsum.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\obj\Debug\bigsum.exe
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\bigsum\bigsum\obj\Debug\bigsum.pdb

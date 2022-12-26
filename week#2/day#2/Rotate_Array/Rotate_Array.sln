@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate_Array", "Rotate_Array\Rotate_Array.csproj", "{B38B184E-BA2C-4638-8460-55EE31FAA97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38B184E-BA2C-4638-8460-55EE31FAA97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38B184E-BA2C-4638-8460-55EE31FAA97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38B184E-BA2C-4638-8460-55EE31FAA97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38B184E-BA2C-4638-8460-55EE31FAA97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37115AC7-E6E9-44FB-9236-1CEDAEE17F8D}
+	EndGlobalSection
+EndGlobal

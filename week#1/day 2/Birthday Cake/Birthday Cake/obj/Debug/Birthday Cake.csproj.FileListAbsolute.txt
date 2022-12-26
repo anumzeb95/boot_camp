@@ -1,0 +1,16 @@
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.pdb
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.pdb
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe.config
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.exe
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\bin\Debug\Birthday Cake.pdb
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.AssemblyReference.cache
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.SuggestedBindingRedirects.cache
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.csproj.CoreCompileInputs.cache
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.exe
+C:\Users\zebbbanu\Downloads\day 2\day 2\Birthday Cake\Birthday Cake\obj\Debug\Birthday Cake.pdb

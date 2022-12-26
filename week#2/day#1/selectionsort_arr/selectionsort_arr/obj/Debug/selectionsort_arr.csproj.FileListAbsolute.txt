@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\bin\Debug\selectionsort_arr.exe.config
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\bin\Debug\selectionsort_arr.exe
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\bin\Debug\selectionsort_arr.pdb
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\obj\Debug\selectionsort_arr.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\obj\Debug\selectionsort_arr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\obj\Debug\selectionsort_arr.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\obj\Debug\selectionsort_arr.exe
+C:\Users\Anum\Desktop\selectionsort_arr\selectionsort_arr\obj\Debug\selectionsort_arr.pdb

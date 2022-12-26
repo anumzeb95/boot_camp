@@ -1,0 +1,16 @@
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\obj\Debug\staircase.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\obj\Debug\staircase.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\obj\Debug\staircase.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\bin\Debug\staircase.exe.config
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\bin\Debug\staircase.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\bin\Debug\staircase.pdb
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\obj\Debug\staircase.exe
+G:\Anum Zeb\bootcamp\week 1\day 2\staircase\staircase\obj\Debug\staircase.pdb
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\bin\Debug\staircase.exe.config
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\bin\Debug\staircase.exe
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\bin\Debug\staircase.pdb
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\obj\Debug\staircase.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\obj\Debug\staircase.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\obj\Debug\staircase.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\obj\Debug\staircase.exe
+G:\Anum Zeb\bootcamp\week 1\week# 1 task\day 2\staircase\staircase\obj\Debug\staircase.pdb

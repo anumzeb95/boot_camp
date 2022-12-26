@@ -1,0 +1,8 @@
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\bin\Debug\Node_LinkedlistTail.exe.config
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\bin\Debug\Node_LinkedlistTail.exe
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\bin\Debug\Node_LinkedlistTail.pdb
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\obj\Debug\Node_LinkedlistTail.csproj.AssemblyReference.cache
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\obj\Debug\Node_LinkedlistTail.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\obj\Debug\Node_LinkedlistTail.csproj.CoreCompileInputs.cache
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\obj\Debug\Node_LinkedlistTail.exe
+C:\Users\Anum\Desktop\Node_LinkedlistTail\Node_LinkedlistTail\obj\Debug\Node_LinkedlistTail.pdb

@@ -1,0 +1,8 @@
+Z:\day 2\2D-arr\2D-arr\bin\Debug\2D-arr.exe.config
+Z:\day 2\2D-arr\2D-arr\bin\Debug\2D-arr.exe
+Z:\day 2\2D-arr\2D-arr\bin\Debug\2D-arr.pdb
+Z:\day 2\2D-arr\2D-arr\obj\Debug\2D-arr.csproj.AssemblyReference.cache
+Z:\day 2\2D-arr\2D-arr\obj\Debug\2D-arr.csproj.SuggestedBindingRedirects.cache
+Z:\day 2\2D-arr\2D-arr\obj\Debug\2D-arr.csproj.CoreCompileInputs.cache
+Z:\day 2\2D-arr\2D-arr\obj\Debug\2D-arr.exe
+Z:\day 2\2D-arr\2D-arr\obj\Debug\2D-arr.pdb

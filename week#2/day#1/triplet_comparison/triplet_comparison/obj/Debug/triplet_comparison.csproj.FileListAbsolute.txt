@@ -1,0 +1,8 @@
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\bin\Debug\triplet_comparison.exe.config
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\bin\Debug\triplet_comparison.exe
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\bin\Debug\triplet_comparison.pdb
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\obj\Debug\triplet_comparison.csproj.AssemblyReference.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\obj\Debug\triplet_comparison.csproj.SuggestedBindingRedirects.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\obj\Debug\triplet_comparison.csproj.CoreCompileInputs.cache
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\obj\Debug\triplet_comparison.exe
+G:\Anum Zeb\bootcamp\Assignments\assignment#3\triplet_comparison\triplet_comparison\obj\Debug\triplet_comparison.pdb
