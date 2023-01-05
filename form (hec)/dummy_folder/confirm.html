@@ -1,0 +1,61 @@
+!DOCTYPE html
+<htmk>
+    <header>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="side nav bar.css">
+    <link rel="stylesheet" href="external.css">
+
+    <link rel="stylesheet" href="css\bootstrap.css">
+    <script src="css\bootstrap.css"></script>
+    <script src="main.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link  href="main.html">
+
+    </header>
+    <body>
+        <main>
+            <h1> Your data:</h1>
+            <div id="data">
+
+            </div>
+
+            <button id="submit">
+                Save & Cancel
+            </button>
+
+
+        </main>
+        <script>
+            var userinput = document.getElementById("dob").value;  
+  var dob = new Date(userinput);  
+  var month_diff = Date.now() - dob.getTime(); 
+  var age_dt = new Date(month_diff);
+  var year = age_dt.getUTCFullYear(); 
+  var age = Math.abs(year - 1990);
+  return document.getElementById("showdob").innerHTML =    
+   "Your Age is: " + age + " years. "; 
+        </script>
+
+        <script>
+            const json = localStorage.getItem('form')
+            const obj = JSON.parse(json);
+            
+            for(key in obj)
+            {
+                const markup =
+                <div>
+                    <span>${key}: ${obj[key]}</span>
+                 </div>;
+                 document.getElementById('data').innerHTML += markup;
+
+            }
+        </script>
+        <script>src="home.js"</script>
+        <script src="js\bootstrap.js"></script>
+        <script src="js\jquery-3.6.3.min.js"></script>
+    </body>
+</html>

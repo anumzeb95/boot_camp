@@ -1,0 +1,402 @@
+{
+    "Afghanistan": [
+      "Herat",
+      "Kabul",
+      "Kandahar",
+      "Molah",
+      "Rana",
+      "Shar",
+      "Sharif",
+      "Wazir Akbar Khan"
+   ],
+   
+    "Argentina": [
+      "Buenos Aires",
+      "Cordoba",
+      "Mendoza",
+      "Puerto Iguazu",
+      "Puerto Madryn",
+      "Rosario",
+      "Salta",
+      "Victoria"
+    ],
+    
+    "Australia": [
+      "Adelaide",
+      "Brisbane",
+      "Cambridge",
+      "Canberra",
+      "Hobart",
+      "Melbourne",
+      "Newcastle",
+      "Perth",
+      "Sydney",
+      "Wollongong"
+    ],
+    
+    "Bahrain": [
+      "Al Hadd",
+      "Al Hamalah",
+      "Al Muharraq",
+      "Bani Jamrah",
+      "Barbar",
+      "Madinat `Isa",
+      "Madinat Hamad",
+      "Manama",
+      "Sanabis",
+      "Sanad"
+    ],
+    
+    "Bangladesh": [
+      "Bogra",
+      "Barisal",
+      "Chittagong",
+      "Comilla",
+      "Dhaka",
+      "Khulna",
+      "Mymensingh",
+      "Narayanganj",
+      "Sylhet",
+      "Rajshahi",
+      "Tongi"
+    ],
+    
+    "Belgium": [
+      "Antwrep",
+      "Brussels",
+      "Bruges",
+      "Dinant",
+      "Durbuy",
+      "Ieper/Ypres",
+      "Durbuy",
+      "Namur",
+      "Spa"
+    ],
+    
+    "Brazil": [
+      "Abadiania",
+      "Belo Horizonte",
+      "Brasilia",
+      "Buzios",
+      "Fortaleza",
+      "Manaus",
+      "Pelourinho and Salvador",
+      "Rio de Janeiro"
+    ],
+  
+    "Canada": [
+      "Calgar",
+      "Montreal",
+      "Niagara Falls",
+      "Ottawa",
+      "Quebec City",
+      "Toronto",
+      "Vancouver",
+      "Victoria"
+    ],
+    
+    "China": [
+      "Beijing",
+      "Chengdu",
+      "Chongqing",
+      "Dongguan",
+      "Guangzhou",
+      "Shenzhen",
+      "Shanghai",
+      "Shenyang",
+      "Tianjin",
+      "Wuhan"
+    ],
+    
+    "Egypt": [
+      "Alexandria",
+      "Aswan",
+      "Cairo",
+      "Edfu",
+      "Giza",
+      "Luxor",
+      "Port Said",
+      "Sharm el-Sheikh",
+      "Shubra El-Kheima",
+      "Suez"
+      ],
+  
+    "France": [
+      "Aix-en-Provence",
+      "Biarritz",
+      "Bordeaux",
+      "Lyon",
+      "Marseille",
+      "Nice",
+      "Orléans",
+      "Paris",
+      "Strasbourg",
+      "Toulouse"
+    ],
+  
+    "Germany": [
+      "Aach",
+      "Berlin",
+      "Cologne",
+      "Dresde",
+      "Düsseldorf",
+      "Hamburg",
+      "Heidelberg",
+      "Leipzig",
+      "Munich",
+      "Stuttgart"
+    ],
+   
+    "India": [
+      "Agra",
+      "Bengaluru",
+      "Delhi",
+      "Goa",
+      "Hyderabad",
+      "Jaipur",
+      "Manali",
+      "Mumbai",
+      "Ooty",
+      "Pondicherry"
+    ],
+   
+    "Iran": [
+      "Arak",
+      "Isfahan",
+      "Kashan",
+      "Kerman",
+      "Qeshm",
+      "Shiraz",
+      "Semnan",
+      "Tehran",
+      "Yazd"
+    ],
+   
+    "Italy": [
+      "Bologna",
+      "Capri",
+      "Florence",
+      "Milan",
+      "Naples",
+      "Orvieto",
+      "Positano",
+      "Rome",
+      "Verona",
+      "Venice"
+    ],
+    
+    "Japan": [
+      "Fukuoka",
+      "Hiroshima",
+      "Kobe",
+      "Kyoto",
+      "Nagoya",
+      "Osaka",
+      "Sapporo",
+      "Sendai",
+      "Tokyo",
+      "Yokohama"
+    ],
+   
+    "Malaysia": [
+      "George Town",
+      "Ipoh",
+      "Johor Bahru",
+      "Kuala Terengganu",
+      "Kota Bharu",
+      "Kuching",
+      "Kota Kinabalu",
+      "Kuala Lumpur",
+      "Malacca",
+      "Miri"
+    ],
+    
+    "Morocco": [
+      "Asilah",
+      "Agadir",
+      "Casablanca",
+      "Essaouira",
+      "El Jadida",
+      "Fez",
+      "Larache",
+      "Marrakech",
+      "Meknes",
+      "Tetouan"
+      ],
+   
+    "Nepal": [
+      "Bharatpur",
+      "Jawlakhel",
+      "Kathmandu",
+      "Lumbini",
+      "Palpa",
+      "Patan"
+    ],
+   
+    "New Zealand": [
+      "Auckland",
+      "Christchurch",
+      "Dunedin",
+      "Napier-Hastings",
+      "Nelson",
+      "New Plymouth",
+      "Rotorua",
+      "Tauranga",
+      "Whangarei",
+      "Wellington"
+    ],
+   
+    "Pakistan": [
+      "Abbottabad",
+      "Faisalabad",
+      "Gujranwala",
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Multan",
+      "Peshawar",
+      "Quetta",
+      "Rawalpindi"
+    ],
+    
+    "Palestine": [
+      "Al Mawasi",
+      "Bethlehem",
+      "Gaza",
+      "Hebron",
+      "Jenin",
+      "Jericho",
+      "Nablus",
+      "Ramallah"
+    ],
+    
+     "Qattar": [
+      "Al Rayyan",
+      "Al Wakrah",
+      "Al Khor",
+      "Ash Shīḩānīyah",
+      "Ar Ruways",
+      "Doha",
+      "Dukhān",
+      "Musay‘īd",
+      "Madīnat ash Shamāl",
+      "Umm Şalāl Muḩammad"
+    ],
+  
+    "Republic of Korea": [
+      "Busan",
+      "Chungju",
+      "Daejon",
+      "Daegu",
+      "Gyeongju",
+      "Hwaseong",
+      "Incheon",
+      "Seoul",
+      "Sokcho",
+      "Ulsan"
+    ],
+    
+    "Russia": [
+      "Kazan",
+      "Krasnodar",
+      "Moscow",
+      "Nizhny Novgorod",
+      "Novosibirsk",
+      "St Petersburg",
+      "Sochi",
+      "Smolensk",
+      "Veliky Novgorod",
+      "Vladivostok"
+    ],
+   
+    "Saudi Arabia": [
+      "Al-Kharj",
+      "Dhahran",
+      "Dammam",
+      "Jeddah",
+      "Khobar",
+      "Makkah",
+      "Madinah",
+      "Riyadh",
+      "Tabuk",
+      "Taif"
+    ],
+  
+    "Spain": [
+      "Barcelona",
+      "Bilbao",
+      "Córdoba",
+      "Granada",
+      "Madrid",
+      "Malaga",
+      "Salamanca",
+      "Seville",
+      "Toledo",
+      "Valencia"
+    ],
+    
+    "Sri Lanka": [
+      "Badulla",
+      "Colombo",
+      "Dehiwala",
+      "Eppawala",
+      "Gampaha",
+      "Homagama",
+      "Matale",
+      "Nugegoda",
+      "Pannipitiya",
+      "Peradeniya"
+    ],
+    
+    "Turkey": [
+       "Antakya",
+       "Antalya",
+      "Ankara",
+      "Bursa",
+      "Fethiye",
+      "Gaziantep",
+      "Istanbul",
+      "Izmir",
+      "Konya",
+      "Şanlıurfa"
+    ],
+   
+    "United Arab Emirates": [
+      "Abu Dhabi",
+      "Al Ain",
+      "Al Khan",
+      "Ar Ruways",
+      "As Satwah",
+      "Dayrah",
+      "Dubai",
+      "Fujairah",
+      "Ras al-Khaimah",
+      "Sharjah"
+    ],
+    
+    "United Kingdom": [
+      "Birmingham",
+      "Bradford",
+      "Bristol",
+      "Edinburgh",
+      "Leeds",
+      "London",
+      "Liverpool",
+      "Manchester",
+      "Nottingham",
+      "Sheffield"
+    ],
+    
+    "United States": [
+      "Boston",
+      "California",
+      "Chicago",
+      "Florida",
+      "Houston",
+      "Las Vegas",
+      "Los Angeles",
+      "New York",
+      "San Francisco",
+      "Washington"
+    ]
+  }
